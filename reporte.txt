@@ -1,0 +1,13 @@
+Escaneandoscanme.nmap.org...
+Puerto 80ABIERTO
+puerto 22ABIERTO-SSH
+puerto 80ABIERTO-HTTP
+reporte guardado en reporte.txt
+puerto22ABIERTO-SSH
+puerto80ABIERTO-HTTP
+reporte guardado en reporte.txt
+===REPORTE DE ESCANEO===
+FECHA:2026-04-23 18:09:26.488068
+OBJETIVO:scanme.nmap.org
+
+puerto22ABIERTO-SSHpuerto80ABIERTO-HTTP
