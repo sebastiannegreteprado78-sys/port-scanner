@@ -1,0 +1,17 @@
+=== REPORTE DE AUDITORIA DE SEGURIDAD ===
+Fecha:2026-04-24 18:56:21.027445
+Objetivo:scanme.nmap.org
+
+---RESUMEN EJECUTIVO ---
+Se identificaron 2 puertos abiertos con servicios activos.
+Se encontraron una version desactualizada de OpenSSH con CVE de severidad.
+
+--- HALLAZGOS ---
+Puerto 22 | SSH | OpenSSH 6.6.1 | severida: MEDIA
+CVE: OpenSSH 6.6.1 - Score 5.8
+Recomendación: ACTUALIZAR OpenSSH a la version mas reciente.
+
+Puerto 80 | HTTP | Sin version detectada|Severidad: Baja
+Recomendacion: Verificar configuracion del servidor web.
+
+--- FIN DEL REPORTE ---
