@@ -1,0 +1,3 @@
+Usuario encontrado: <!DOCTYPE html>
+Usuario encontrado: carlos
+Contraseña encontrada: 123456
